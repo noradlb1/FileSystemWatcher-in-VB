@@ -1,0 +1,23 @@
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe.config
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.pdb
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.xml
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.vbprojResolveAssemblyReference.cache
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.frmOut.resources
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.Resources.resources
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.vbproj.GenerateResource.Cache
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.exe
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.xml
+C:\Users\timto\Documents\Visual Studio 2017\Projects\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.pdb
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\bin\Debug\DirectoryExample.exe.config
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\bin\Debug\DirectoryExample.exe
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\bin\Debug\DirectoryExample.pdb
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\bin\Debug\DirectoryExample.xml
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.frmOut.resources
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.Resources.resources
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.exe
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.xml
+C:\Users\MONSTERMC\Downloads\Compressed\FileSystemWatcher-in-VB-Example-master\FileSystemWatcher-in-VB-Example-master\DirectoryExample\obj\Debug\DirectoryExample.pdb
